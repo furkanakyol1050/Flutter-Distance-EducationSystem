@@ -1,24 +1,17 @@
 # Flutter Uzaktan Eğitim Sistemi
 ## 🚀 Proje Tanımı ve Özellikleri
-"Multi-Platform Destekli Uzaktan Eğitim Sistemi" projesi, Flutter kullanarak geliştirilmiştir. Sistem, hem web hem de mobil uygulamalar üzerinden erişilebilen entegre bir çözüm sunarak eğitim süreçlerini optimize etmeyi amaçlamaktadır. Fakülteler,bölümler, dersler, eğitmenler ve öğrenciler gibi çeşitli eğitim bileşenlerini tek bir platformda bir araya getirerek veri erişimini ve yönetimini kolaylaştırır. Projenin öne çıkan özelliklerinden biri, sınav esnasında kağıda yazılan veya çizilen cevapların mobiluygulama ile çekilip doğrudan sisteme aktarılabilmesidir. Bu sayede, akademisyenler soruların cevaplarını indirip kontrol edebilir; bazı sorular sistem tarafından otomatik olarak kontrol edilirken, bazıları akademisyenler tarafından değerlendirilip puanlanır. Öğrencilerin sonuçları excel formatında indirilebilir. Ayrıca, canlı dersler sistem tarafından kayıt edilebilir ve hem akademisyen hem de öğrenci panelinden ders tekrarı izlenebilir.Ödevler ve Duyurular gibi özellikleri destekler. Tüm bu özellikler, uygulamanın çoklu platformlarda kullanıcı dostu bir deneyim sunmasını sağlar.
+Multi-Platform Destekli Uzaktan Eğitim Sistemi" projesi, Flutter kullanarak geliştirilmiştir. Sistem, hem web hem de mobil uygulamalar üzerinden erişilebilen entegre bir çözüm sunarak eğitim süreçlerini optimize etmeyi amaçlamaktadır. Fakülteler,bölümler, dersler, eğitmenler ve öğrenciler gibi çeşitli eğitim bileşenlerini tek bir platformda bir araya getirerek veri erişimini ve yönetimini kolaylaştırır. Projenin öne çıkan özelliklerinden biri, sınav esnasında kağıda yazılan veya çizilen cevapların mobiluygulama ile çekilip doğrudan sisteme aktarılabilmesidir. Bu sayede, akademisyenler soruların cevaplarını indirip kontrol edebilir; bazı sorular sistem tarafından otomatik olarak kontrol edilirken, bazıları akademisyenler tarafından değerlendirilip puanlanır. Öğrencilerin sonuçları excel formatında indirilebilir. Ayrıca, canlı dersler sistem tarafından kayıt edilebilir ve hem akademisyen hem de öğrenci panelinden ders tekrarı izlenebilir.Ödevler ve Duyurular gibi özellikleri destekler. Tüm bu özellikler, uygulamanın çoklu platformlarda kullanıcı dostu bir deneyim sunmasını sağlar.
 
 
 > [!CAUTION]
 > Uygulamada bulunan genel özellikler çalışmaktadır ancak içerisinde ufak problemler olabilir.
 
 ## Uygulama Ekran Görüntüleri:
-<p align="center">
-  <img hspace="20" src="https://github.com/user-attachments/assets/da228d4b-85b6-4a57-9ab9-3c9966e48103" width="150" height="320">
-  <img hspace="20" src="https://github.com/user-attachments/assets/893faee8-4c25-4232-8c5b-a482fde592f6" width="150" height="320">
-  <img hspace="20" src="https://github.com/user-attachments/assets/e2005b74-0368-47f7-a5f3-4ace11ac6a57" width="150" height="320">
-  <img hspace="20" src="https://github.com/user-attachments/assets/b967b04a-3eef-4ad4-95ca-17259c3a9691" width="150" height="320">
-<p>
-<p align="center">
-  <img hspace="20" src="https://github.com/user-attachments/assets/d1c163e6-e024-41ef-860e-b6d9a79ce2d6" width="150" height="320">
-  <img hspace="20" src="https://github.com/user-attachments/assets/724e0333-8e6b-4910-9086-2399981b0118" width="150" height="320">
-  <img hspace="20" src="https://github.com/user-attachments/assets/c5272558-238f-4e7a-9175-22fbcd83d83e" width="150" height="320">
-  <img hspace="20" src="https://github.com/user-attachments/assets/32ab5f98-befb-479f-8db5-0c8295928cef" width="150" height="320">
-<p>
+
+![image7](https://github.com/user-attachments/assets/b955bf6a-8d34-4f52-a426-aa21f49662bb)
+![image6](https://github.com/user-attachments/assets/16ab2371-5714-4810-9c7c-c8dd803b5031)
+![image5](https://github.com/user-attachments/assets/7c3c8454-93ce-4a2c-b89a-92b478b9016a)
+![image4](https://github.com/user-attachments/assets/583915ff-7653-45b2-b1d3-9a43078cf183)
 
 ## Kullanılan paketler:
 
