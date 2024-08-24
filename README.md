@@ -30,3 +30,7 @@ Multi-Platform Destekli Uzaktan Eğitim Sistemi" projesi, Flutter kullanarak gel
 | firebase_database (v10.4.8) | [Link](https://pub.dev/packages/firebase_database) | calendar_view (v1.1.0) | [Link](https://pub.dev/packages/calendar_view) |
 | excel (v4.0.2) | [Link](https://pub.dev/packages/excel) | file_picker (v6.2.0) | [Link](https://pub.dev/packages/file_picker) |
 
+## Created & Maintained By
+[Talha Aslan](https://github.com/Thasln)
+
+[Muhammed Furkan Akyol](https://github.com/furkanakyol1050)
